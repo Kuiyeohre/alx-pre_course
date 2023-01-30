@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ALX School is so cool!
 =======
 #!/bin/bash
 echo "ALX"
 >>>>>>> refs/remotes/origin/master
+=======
+ALX School
+>>>>>>> update_script
